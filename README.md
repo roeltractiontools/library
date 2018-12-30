@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tt-frontend
 
 > 
@@ -29,3 +30,6 @@ class Example extends Component {
 ## License
 
 MIT © [](https://github.com/)
+=======
+# tt-library
+>>>>>>> 1261aeac14b82b25818beaad5a6efedecd1236a9
