@@ -1,0 +1,16 @@
+.page{
+	padding:30px;
+    background: $color-light-gray;
+    border-radius:0px;
+	min-height:700px;
+    &-body{
+        background: #fff;
+    }
+}
+.page-body{
+	@include border-default;
+	padding: 30px;
+	h3{
+    	margin-bottom:16px;
+	}
+}
